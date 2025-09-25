@@ -1,3 +1,5 @@
-﻿# Final Project
-
-System.out.println("Mancing");
+﻿public class Test {
+    public static void main(String[] args) {
+        System.out.println("Ayo Mancing!");
+    }
+}
